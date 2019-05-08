@@ -106,7 +106,7 @@ echo chunk_split($ciphertext);
 $plaintext2 = decrypt_message($ciphertext,$private_key);
 echo "\n\nDecrypted Back into Plaintext\n\n";
 
-echo $plaintext;
+echo $plaintext2;
 
 
 
